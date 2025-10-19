@@ -10,7 +10,9 @@
 
 **AI-Powered Security Analysis & Attack Simulation Platform**
 
-[Features](#-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture) • [Documentation](#-documentation) • [Contributing](#-contributing)
+[Features](#-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture) • [Documentation](#-documentation) • [Contributing](#-contributing) • [Live Demo](https://cognitoforge-ai.vercel.app)
+
+🚀 **[Try Live Demo](https://cognitoforge-ai.vercel.app)** 🚀
 
 </div>
 
@@ -259,8 +261,9 @@ npm run dev
 ```
 
 **Access the Application:**
-- Frontend: http://localhost:3000
-- Backend API: http://127.0.0.1:8000
+- **Live Demo**: https://cognitoforge-ai.vercel.app
+- Local Frontend: http://localhost:3000
+- Local Backend API: http://127.0.0.1:8000
 - API Docs: http://127.0.0.1:8000/docs
 
 ---
@@ -315,7 +318,9 @@ AUTH0_SCOPE=openid profile email
 
 ### Running a Security Analysis
 
-1. **Navigate to Demo Page**: http://localhost:3000/demo
+1. **Navigate to Demo Page**: 
+   - Live: https://cognitoforge-ai.vercel.app/demo
+   - Local: http://localhost:3000/demo
 
 2. **Enter Repository URL**:
    ```
